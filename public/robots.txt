@@ -1,0 +1,5 @@
+# TODO: gerçek production domain'i ile güncelle
+User-agent: *
+Allow: /
+
+Sitemap: https://gluzen.com/sitemap.xml
